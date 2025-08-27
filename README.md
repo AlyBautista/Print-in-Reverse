@@ -1,1 +1,1 @@
-# Print-in-Reverse
+I first check if the linked list is empty, and if it is, I stop the function. Then I call the same function again on the next node, which keeps moving forward through the list until it reaches the end. After that, as the function goes back step by step, I print each node’s data. This way, the nodes are printed in reverse order.
